@@ -1,0 +1,13 @@
+body {
+    background-color: white;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+}
+
+#tyson {
+    color: blue;
+    font-size: 50px;
+}
